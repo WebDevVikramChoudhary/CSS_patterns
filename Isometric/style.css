@@ -3,51 +3,51 @@ body {
   opacity: 0.8;
   background-image: linear-gradient(
       30deg,
-      #444cf7 12%,
+      #ff69b4 12%,
       transparent 12.5%,
       transparent 87%,
-      #444cf7 87.5%,
-      #444cf7
+      #ff69b4 87.5%,
+      #ff69b4
     ),
     linear-gradient(
       150deg,
-      #444cf7 12%,
+      #ff69b4 12%,
       transparent 12.5%,
       transparent 87%,
-      #444cf7 87.5%,
-      #444cf7
+      #ff69b4 87.5%,
+      #ff69b4
     ),
     linear-gradient(
       30deg,
-      #444cf7 12%,
+      #ff69b4 12%,
       transparent 12.5%,
       transparent 87%,
-      #444cf7 87.5%,
-      #444cf7
+      #ff69b4 87.5%,
+      #ff69b4
     ),
     linear-gradient(
       150deg,
-      #444cf7 12%,
+      #ff69b4 12%,
       transparent 12.5%,
       transparent 87%,
-      #444cf7 87.5%,
-      #444cf7
+      #ff69b4 87.5%,
+      #ff69b4
     ),
     linear-gradient(
       60deg,
-      #444cf777 25%,
+      #ff69b477 25%,
       transparent 25.5%,
       transparent 75%,
-      #444cf777 75%,
-      #444cf777
+      #ff69b477 75%,
+      #ff69b477
     ),
     linear-gradient(
       60deg,
-      #444cf777 25%,
+      #ff69b477 25%,
       transparent 25.5%,
       transparent 75%,
-      #444cf777 75%,
-      #444cf777
+      #ff69b477 75%,
+      #ff69b477
     );
   background-size: 20px 35px;
   background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
